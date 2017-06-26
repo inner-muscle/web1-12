@@ -6,4 +6,5 @@ document.getElementById('form').onsubmit = function()
 };
 
 var li = document.createElement('li');
-document.getElementById('form').appendChild(word);
+li.textContent='a';
+document.getElementById('a').appendChild(li);
