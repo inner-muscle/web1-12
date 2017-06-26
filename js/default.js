@@ -6,4 +6,4 @@ document.getElementById('form').onsubmit = function()
 };
 
 var li = document.createElement('li');
-document.getElementById('form).appendChild(word);
+document.getElementById('form').appendChild(word);
